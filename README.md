@@ -9,5 +9,7 @@ app_file: app.py
 pinned: false
 
 
-hugging spave:https://huggingface.co/spaces/Adileeee/mygenaichatbot
-chatbot website:https://adithyalekshmip.ccbp.tech/
+#hugging spave:https://huggingface.co/spaces/Adileeee/mygenaichatbot
+
+
+#chatbot website:https://adithyalekshmip.ccbp.tech/
